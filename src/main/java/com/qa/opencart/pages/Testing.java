@@ -1,6 +1,6 @@
 package com.qa.opencart.pages;
 
-public class LPPage {
+public class Testing {
 
 	public static void main(String[] args) {
 		
