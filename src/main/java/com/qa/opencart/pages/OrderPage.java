@@ -8,6 +8,10 @@ public class OrderPage {
 		int i=10;
 		int p=20;
 		
+		
+		String n="testing";
+		
+		
 	}
 
 }
