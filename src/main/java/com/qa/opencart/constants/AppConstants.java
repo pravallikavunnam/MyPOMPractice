@@ -3,6 +3,8 @@ package com.qa.opencart.constants;
 import java.util.Arrays;
 import java.util.List;
 
+
+
 public class AppConstants {
 	
 	//for constants we use final keyword ---because no one can change the values as they are final
